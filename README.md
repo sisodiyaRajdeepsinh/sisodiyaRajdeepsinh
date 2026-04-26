@@ -1,45 +1,69 @@
-# Hi, I'm Rajdeepsinh Sisodiya 👋
+<div align="center">
 
-**AI/ML Developer · Computer Vision enthusiast · Open to opportunities**
+# Hey, I'm Rajdeepsinh Sisodiya 👋
 
-I build intelligent systems that solve real-world problems — from detecting drowsy drivers to recognizing hand gestures in real time. Currently sharpening my skills and looking for my first role in AI/ML or Data.
+### AI/ML Developer · Computer Vision Enthusiast · Open to Opportunities
+
+*I build intelligent systems that solve real-world problems —*
+*from detecting drowsy drivers to recognizing hand gestures in real time.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajdeepsinh%20Sisodiya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sisodiyarajdeepsinh/)
+[![Email](https://img.shields.io/badge/Email-rajdeepsinhsisodiya.d%40gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:rajdeepsinhsisodiya.d@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Ahmedabad%2C%20India-34A853?style=flat)](#)
+
+</div>
 
 ---
 
-### 🛠 Tech stack
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-34A853?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-D44638?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-764ABC?style=flat)
-![Web Development](https://img.shields.io/badge/Web%20Development-0EA5E9?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [Driver Drowsiness Detection](https://github.com/sisodiyaRajdeepsinh/driver-drowsiness-detection) | Real-time alert system to prevent accidents | CNN, OpenCV, Python |
-| [Hand Gesture Recognition](https://github.com/sisodiyaRajdeepsinh/hand-gesturerecognition-opencv) | Controls Windows OS actions via gestures | OpenCV, Python |
-| [AI/ML Journey](https://github.com/sisodiyaRajdeepsinh/My_AI-ML-Journey) | My learning path and experiments | Python, Jupyter |
+| [🚗 Driver Drowsiness Detection](https://github.com/sisodiyaRajdeepsinh/driver-drowsiness-detection) | Real-time alert system to prevent accidents caused by drowsy driving | CNN, OpenCV, Python |
+| [✋ Hand Gesture Recognition](https://github.com/sisodiyaRajdeepsinh/hand-gesturerecognition-opencv) | Controls Windows OS actions using hand gestures via webcam | OpenCV, Python |
+| [📓 AI/ML Journey](https://github.com/sisodiyaRajdeepsinh/My_AI-ML-Journey) | My personal learning path, experiments, and notes in AI & ML | Python, Jupyter |
 
 ---
 
-### 📚 Currently learning
+## 📚 Currently Learning
 
-- Advanced deep learning architectures (Transformers, GANs)
-- Model deployment and MLOps fundamentals
-- Building end-to-end ML pipelines
+- 🤖 Advanced deep learning architectures (Transformers, GANs)
+- ☁️ Model deployment & MLOps fundamentals
+- 🔁 Building end-to-end ML pipelines
 
 ---
 
-### 📬 Let's connect
+## 📊 GitHub Stats
 
-- 📧 **Email:** your.rajdeepsinhsisodiya.d@gmail.com
-- 💼 **LinkedIn:** [linkedin-url](https://www.linkedin.com/in/sisodiyarajdeepsinh/)
+<div align="center">
+
+![Rajdeepsinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sisodiyaRajdeepsinh&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sisodiyaRajdeepsinh&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+- 💼 **LinkedIn:** [Rajdeepsinh Sisodiya](https://www.linkedin.com/in/sisodiyarajdeepsinh/)
+- 📧 **Email:** [rajdeepsinhsisodiya.d@gmail.com](mailto:rajdeepsinhsisodiya.d@gmail.com)
 - 📍 **Location:** Ahmedabad, India
 
-> Open to full-time roles, internships, and collaborations in AI/ML and Data.
+> 💡 *Open to full-time roles, internships, and collaborations in AI/ML and Data.*
 
