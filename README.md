@@ -38,7 +38,7 @@ I build intelligent systems that solve real-world problems — from detecting dr
 ### 📬 Let's connect
 
 - 📧 **Email:** your.rajdeepsinhsisodiya.d@gmail.com
-- 💼 **LinkedIn:** [your-linkedin-url](https://www.linkedin.com/in/sisodiyarajdeepsinh/)
+- 💼 **LinkedIn:** [linkedin-url](https://www.linkedin.com/in/sisodiyarajdeepsinh/)
 - 📍 **Location:** Ahmedabad, India
 
 > Open to full-time roles, internships, and collaborations in AI/ML and Data.
