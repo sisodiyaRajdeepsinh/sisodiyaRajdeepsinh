@@ -1,47 +1,141 @@
-# Hi, I'm Rajdeepsinh Sisodiya 👋
+<div align="center">
 
-**AI/ML Developer · Computer Vision enthusiast · Open to opportunities**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Rajdeepsinh%20Sisodiya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20Computer%20Vision%20%7C%20Open%20to%20Opportunities&descAlignY=58&descSize=16" />
 
-I build intelligent systems that solve real-world problems — from detecting drowsy drivers to recognizing hand gestures in real time. Currently sharpening my skills and looking for my first role in AI/ML or Data.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+intelligent+real-world+systems+🤖;Computer+Vision+%7C+Deep+Learning+%7C+OpenCV;Turning+ideas+into+working+AI+projects+🚀)](https://git.io/typing-svg)
 
----
-
-### 🛠 Tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-34A853?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-D44638?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-764ABC?style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+</div>
 
 ---
 
-### 🚀 Featured projects
+## 🧠 About Me
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Driver Drowsiness Detection](https://github.com/sisodiyaRajdeepsinh/driver-drowsiness-detection) | Real-time alert system to prevent accidents | CNN, OpenCV, Python |
-| [Hand Gesture Recognition](https://github.com/sisodiyaRajdeepsinh/hand-gesturerecognition-opencv) | Controls Windows OS actions via gestures | OpenCV, Python |
-| [Atomic Habits Daily Tracker](https://github.com/sisodiyaRajdeepsinh/atomic-habits-Daily-Tracker) | Full year 2026 habit tracker with heatmap & streaks | HTML, CSS, JavaScript |
-| [AI/ML Journey](https://github.com/sisodiyaRajdeepsinh/My_AI-ML-Journey) | My learning path and experiments | Python, Jupyter |
-
----
-
-### 📚 Currently learning
-
-- Advanced deep learning architectures (Transformers, GANs)
-- Model deployment and MLOps fundamentals
-- Building end-to-end ML pipelines
+- 🎯 I build **AI/ML systems** that solve real-world problems
+- 👁️ Passionate about **Computer Vision** — from drowsy driver detection to gesture control
+- 🌐 Also building clean **web tools** like a full-year habit tracker
+- 🔍 Currently looking for my first role in **AI/ML or Data**
+- 📍 Based in **Ahmedabad, India**
 
 ---
 
-### 📬 Let's connect
+## 🛠️ Tech Stack
 
-- 📧 **Email:** [rajdeepsinhsisodiya.d@gmail.com](mailto:your.rajdeepsinhsisodiya.d@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sisodiyarajdeepsinh](https://www.linkedin.com/in/sisodiyarajdeepsinh/)
-- 📍 **Location:** Ahmedabad, India
+**AI / ML**
 
-> Open to full-time roles, internships, and collaborations in AI/ML and Data.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚗 Driver Drowsiness Detection</h3>
+      <p>Real-time CNN-based system that monitors driver alertness and triggers alerts to prevent road accidents.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat" />
+      <br><br>
+      <a href="https://github.com/sisodiyaRajdeepsinh/driver-drowsiness-detection">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>✋ Hand Gesture Recognition</h3>
+      <p>Real-time gesture recognition system that translates hand movements into Windows OS actions using OpenCV.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/sisodiyaRajdeepsinh/hand-gesturerecognition-opencv">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Atomic Habits Daily Tracker</h3>
+      <p>Full-year 2026 habit tracker with GitHub-style heatmap, calorie tracker, weekly habit grid, and localStorage persistence.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <br><br>
+      <a href="https://github.com/sisodiyaRajdeepsinh/atomic-habits-Daily-Tracker">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://sisodiyarajdeepsinh.github.io/atomic-habits-Daily-Tracker">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🤖 My AI/ML Journey</h3>
+      <p>A documented log of my learning path through AI and ML — notebooks, experiments, and key concepts.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/sisodiyaRajdeepsinh/My_AI-ML-Journey">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+- 🔬 Advanced deep learning — Transformers, GANs, Diffusion models
+- ☁️ Model deployment & MLOps fundamentals
+- 🔁 Building end-to-end ML pipelines
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sisodiyaRajdeepsinh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sisodiyaRajdeepsinh&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C9A7&currStreakLabel=6C63FF" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisodiyaRajdeepsinh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="40%" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sisodiyarajdeepsinh/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeepsinhsisodiya.d@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sisodiyaRajdeepsinh)
+[![Live Tracker](https://img.shields.io/badge/Habit%20Tracker-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://sisodiyarajdeepsinh.github.io/atomic-habits-Daily-Tracker)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" />
+</div>
