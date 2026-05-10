@@ -82,10 +82,6 @@
       <a href="https://github.com/sisodiyaRajdeepsinh/atomic-habits-Daily-Tracker">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      &nbsp;
-      <a href="https://sisodiyarajdeepsinh.github.io/atomic-habits-Daily-Tracker">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
     </td>
     <td width="50%">
       <h3>🤖 ResumeIQ</h3>
@@ -131,7 +127,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sisodiyarajdeepsinh/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeepsinhsisodiya.d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sisodiyaRajdeepsinh)
-[![Live Tracker](https://img.shields.io/badge/Habit%20Tracker-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://sisodiyarajdeepsinh.github.io/atomic-habits-Daily-Tracker)
 
 </div>
 
