@@ -88,12 +88,13 @@
       </a>
     </td>
     <td width="50%">
-      <h3>🤖 My AI/ML Journey</h3>
-      <p>A documented log of my learning path through AI and ML — notebooks, experiments, and key concepts.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+      <h3>🤖 ResumeIQ</h3>
+      <p>AI-powered <strong>Resume Gap Analyzer</strong> — paste your resume and a job description, and it identifies missing skills, weak areas, and what to improve to land the role.</p>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <br><br>
-      <a href="https://github.com/sisodiyaRajdeepsinh/My_AI-ML-Journey">
+      <p><strong>Highlights:</strong> JD vs Resume comparison · Skill gap analysis · Actionable suggestions</p>
+      <a href="https://github.com/sisodiyaRajdeepsinh/ResumeIQ-">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
